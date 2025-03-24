@@ -16,7 +16,13 @@ So i was scroling arround aliexpress and after some scrolling arround i found a 
 
 ## Opening it up 
 ![IMG20241207145600](https://github.com/user-attachments/assets/3fb8aa26-ebd5-4865-85c3-756bd1ff7bec) 
-To open it you first have to remove this screw which connects the shaft of the stepper motor for left and right to the base and the device. 
+To open it you first have to remove this screw which connects the shaft of the stepper motor for left and right to the base and the device. Like shown above. 
 
-After that's undone you find 2 screws you also have to undo 
+
 ![IMG20241207145620](https://github.com/user-attachments/assets/0fec1280-3088-403e-a756-800e7d909130) 
+After that's undone you find 2 screws you also have to undo. After undoing those, its just some clips holding everything together.
+
+
+After that, its open!
+**![IMG20241207145726](https://github.com/user-attachments/assets/922c42ec-83d9-4657-b949-b52952c62a6c) 
+![IMG20241207145742](https://github.com/user-attachments/assets/1f923392-02ef-4b4b-ba70-f672d2225901) **

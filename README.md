@@ -8,5 +8,15 @@ Please note that this product uses software/components licensed under the GNU GP
 2. Uboot (Das UBOOT in full). Uboot is a free and opensource Bootloader that is designed to be used in embedded devices and supports a lot of hardware.
 3. Busybox. Busybox is a package thats basically a swiss army knife of different Unix and *NIX utilities and tools/commands. Its the basis userland of many embedded Linux devices and provides standard UNIX(-like) functions and commands.
 
-## 
+## STORY
+So i was scroling arround aliexpress and after some scrolling arround i found a quite interesting product: https://nl.aliexpress.com/item/1005008096157627.html?spm=a2g0o.productlist.main.1.22dcn9vzn9vzoe&algo_pvid=eff6c6e7-bbd0-49f5-92e5-ca2a9615dbd0&algo_exp_id=eff6c6e7-bbd0-49f5-92e5-ca2a9615dbd0-0&pdp_ext_f=%7B%22order%22%3A%2276%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2151.95%2117.19%21%21%21399.00%21132.03%21%402103956b17428357484891106e5c3d%2112000043707738078%21sea%21NL%210%21ABX&curPageLogUid=YuDSl05XZukt&utparam-url=scene%3Asearch%7Cquery_from%3A. This seems to be a ip camera which can be controlled by an app. One feature stands out though, and that is that this actually has a screen on it while previous camera's i took a look at and hacked did not have a screen. Now i am curious to see what software and hardware is used for it to be able to output graphics. It could have some device node in /dev for the screen and or some custom drivers/kernel modules so this could be interesting so i bought it. After a few days of waiting it arrived and this is the product itself:
+![IMG20241207145552](https://github.com/user-attachments/assets/f4c826eb-b537-44ae-9c53-06d55671d8cf) 
+![IMG20241207145545](https://github.com/user-attachments/assets/88233d62-d0c9-409a-8efc-539c1fa33dba) 
+![IMG20241207145549](https://github.com/user-attachments/assets/0afc4b3e-8bf8-4da4-bc9b-35f6d8063038) 
 
+## Opening it up 
+![IMG20241207145600](https://github.com/user-attachments/assets/3fb8aa26-ebd5-4865-85c3-756bd1ff7bec) 
+To open it you first have to remove this screw which connects the shaft of the stepper motor for left and right to the base and the device. 
+
+After that's undone you find 2 screws you also have to undo 
+![IMG20241207145620](https://github.com/user-attachments/assets/0fec1280-3088-403e-a756-800e7d909130) 

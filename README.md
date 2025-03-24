@@ -22,7 +22,10 @@ To open it you first have to remove this screw which connects the shaft of the s
 ![IMG20241207145620](https://github.com/user-attachments/assets/0fec1280-3088-403e-a756-800e7d909130) 
 After that's undone you find 2 screws you also have to undo. After undoing those, its just some clips holding everything together.
 
-
 After that, its open!
-**![IMG20241207145726](https://github.com/user-attachments/assets/922c42ec-83d9-4657-b949-b52952c62a6c) 
-![IMG20241207145742](https://github.com/user-attachments/assets/1f923392-02ef-4b4b-ba70-f672d2225901) **
+
+## Exploring the insides
+![IMG20241207145726](https://github.com/user-attachments/assets/922c42ec-83d9-4657-b949-b52952c62a6c) 
+![IMG20241207145742](https://github.com/user-attachments/assets/1f923392-02ef-4b4b-ba70-f672d2225901) 
+![IMG20241207145947](https://github.com/user-attachments/assets/2ce28c12-39ab-4d6c-817b-9347458ac302) 
+

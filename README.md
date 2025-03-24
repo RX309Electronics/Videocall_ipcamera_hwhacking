@@ -1,2 +1,1 @@
-# Videocall_ipcamera_hwhacking
-In this repo i will share information about the itnernals of a cheap aliexpress videocall camera which is an ip camera controlled by an app, but with an lcd screen added to it which makes it quite interesting. In the future i will try to port doom to it!
+In this repo i will explore a cheap videocall ipcamera from aliexpress. This camera is unique compared to other ipcams i have looked at in the past. And thats a screeen! This device has a built in screen and thus a video device in /dev/ hopefully.. Now i want to run doom on it ofcourse :)
